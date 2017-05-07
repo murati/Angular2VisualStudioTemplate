@@ -7,7 +7,7 @@ Holds the TypeScript source code of the [angular.io quickstart](https://angular.
 This template create ASP.NET WebApi 2 backend with Angular 2 client.
 Holds the TypeScript source code of the angular.io quickstart,for good starting Angular 2 client app with ASP.NET WebApi 2 backend.
 
- 
+Right-click package.json in the project to restore packages and hit F5 to run. 
 
 For creating angular 2 component you can use [template](https://marketplace.visualstudio.com/items?itemName=Mino.Angular2ComponentTemplate).
 
